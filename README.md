@@ -1,4 +1,8 @@
-## Hi there 👋
+## Swapneel Bhatt
+Robotics Engineer with industry experience in robotic surface finishing. Columbia MS Grad with research and academic experience in Applied Robotics Algorithms, Robot Learning, Adaptive and Optimal Control as well as Probabilistic Robotics Techniques. 
+
+## Skills
+Python, ROS2, MATLAB, C# 
 
 <!--
 **swapneel001/swapneel001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
